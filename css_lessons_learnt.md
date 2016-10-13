@@ -9,7 +9,13 @@ div.footnote {
 # (S)CSS Lessons Learnt
 
 ## Andreas Wachowski
-### July 2016
+### October 2016
+
+<div class="footnote">
+  <p>@awachowski</p
+  <p>github.com/andreaswachowski</p>
+  <p>www.andreas-wachowski.de</p>
+</div>
 
 
 # Introduction
@@ -410,6 +416,13 @@ $intro-color: $white;
 }
 ```
 
+<div class="footnote">
+  <ul>
+    <li>https://www.sitepoint.com/how-good-are-your-html-and-css-comments/</li>
+    <li>http://cssguidelin.es/#commenting</li>
+  </ul>
+</div>
+
 
 ### 2.3.2 Add a CSS Refactoring Roadmap
 
@@ -435,10 +448,11 @@ Check the following for people, blogs, sites:
 * https://uptodate.frontendrescue.org/
 
 For example:
-* Lea Verou @leaverou (CSS)
-* Rachel Andrew @rachelandrew (CSS Grid)
-* Sara Soueidan @sarasoueidan (CSS and SVG)
-* …
+* <a href="http://lea.verou.me/">Lea Verou</a> <a href="https://twitter.com/LeaVerou">@leaverou</a> (CSS)
+* <a href="https://rachelandrew.co.uk/">Rachel Andrew</a> <a href="https://twitter.com/rachelandrew">@rachelandrew</a> (CSS Grid)
+* <a href="https://sarasoueidan.com/">Sara Soueidan</a> <a href="https://twitter.com/SaraSoueidan">@sarasoueidan</a> (CSS and SVG)
+* <a href="https://codepen.io/thebabydino/">Ana Tudor</a> <a href="https://twitter.com/anatudor">@anatudor</a> (CSS animations)
+* <a href="http://zomigi.com/">Zoe Mickley Gillenwater</a> <a href="https://twitter.com/zomigi">@zomigi</a> (CSS)
 
 
 ## SMACSS/BEM/OOCSS/ITCSS
